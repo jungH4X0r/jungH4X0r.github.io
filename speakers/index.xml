@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on Junghacker - Programmieren für Kids</title>
@@ -21,6 +21,19 @@
     
     <item>
       <title></title>
+      <link>https://junghacker.de/speakers/cs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/speakers/cs/</guid>
+      <description>bei mir kannst du $Dinge über - a
+-b
+-v
+wef-sdfg-wg
+lernen.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://junghacker.de/speakers/danielk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -39,10 +52,37 @@
     
     <item>
       <title></title>
+      <link>https://junghacker.de/speakers/frlan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/speakers/frlan/</guid>
+      <description> Full bio </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://junghacker.de/speakers/honky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/speakers/honky/</guid>
+      <description> Full bio </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://junghacker.de/speakers/horstiane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/horstiane/</guid>
+      <description> Full bio </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://junghacker.de/speakers/jotilux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/speakers/jotilux/</guid>
       <description> Full bio </description>
     </item>
     
@@ -88,46 +128,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/yves/</guid>
-      <description> Full bio </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://junghacker.de/speakers/cs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/speakers/cs/</guid>
-      <description>bei mir kannst du $Dinge über - a
--b
--v
-wef-sdfg-wg
-lernen.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://junghacker.de/speakers/frlan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/speakers/frlan/</guid>
-      <description> Full bio </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://junghacker.de/speakers/honky/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/speakers/honky/</guid>
-      <description> Full bio </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://junghacker.de/speakers/jotilux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/speakers/jotilux/</guid>
       <description> Full bio </description>
     </item>
     
