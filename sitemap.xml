@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -92,10 +92,6 @@
   </url>
   
   <url>
-    <loc>https://junghacker.de/speakers/cs/</loc>
-  </url>
-  
-  <url>
     <loc>https://junghacker.de/speakers/danielk/</loc>
   </url>
   
@@ -104,19 +100,7 @@
   </url>
   
   <url>
-    <loc>https://junghacker.de/speakers/frlan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/speakers/honky/</loc>
-  </url>
-  
-  <url>
     <loc>https://junghacker.de/speakers/horstiane/</loc>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/speakers/jotilux/</loc>
   </url>
   
   <url>
@@ -140,11 +124,29 @@
   </url>
   
   <url>
+    <loc>https://junghacker.de/speakers/cs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/speakers/frlan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/speakers/honky/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/speakers/jotilux/</loc>
+  </url>
+  
+  <url>
     <loc>https://junghacker.de/tags/blocky/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://junghacker.de/tags/forensik/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -157,10 +159,12 @@
   
   <url>
     <loc>https://junghacker.de/tags/hand-auge-koordination/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://junghacker.de/tags/linux/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -173,6 +177,7 @@
   
   <url>
     <loc>https://junghacker.de/tags/l%C3%B6ten/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -180,15 +185,13 @@
   </url>
   
   <url>
-    <loc>https://junghacker.de/sessions/mbot/</loc>
-  </url>
-  
-  <url>
     <loc>https://junghacker.de/tags/medien/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://junghacker.de/tags/python/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -197,6 +200,7 @@
   
   <url>
     <loc>https://junghacker.de/tags/sensoren/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -204,7 +208,12 @@
   </url>
   
   <url>
+    <loc>https://junghacker.de/sessions/</loc>
+  </url>
+  
+  <url>
     <loc>https://junghacker.de/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -212,7 +221,7 @@
   </url>
   
   <url>
-    <loc>https://junghacker.de/sessions/</loc>
+    <loc>https://junghacker.de/sessions/mbot/</loc>
   </url>
   
 </urlset>

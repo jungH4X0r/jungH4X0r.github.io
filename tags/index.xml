@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Junghacker - Programmieren für Kids</title>
@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>blocky</title>
+      <title>Blocky</title>
       <link>https://junghacker.de/tags/blocky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>forensik</title>
+      <title>Forensik</title>
       <link>https://junghacker.de/tags/forensik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Hand-Auge-Koordination</title>
+      <title>Hand Auge Koordination</title>
       <link>https://junghacker.de/tags/hand-auge-koordination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>löten</title>
+      <title>Löten</title>
       <link>https://junghacker.de/tags/l%C3%B6ten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://junghacker.de/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
