@@ -11,39 +11,12 @@
     
     
     <item>
-      <title>Forensische Analysen</title>
-      <link>https://junghacker.de/sessions/forensische_analysen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/sessions/forensische_analysen/</guid>
-      <description>&amp;lt;&amp;ndash; Full description &amp;ndash;&amp;gt;</description>
-    </item>
-    
-    <item>
-      <title>Fortgeschrittene-Forensische-Analysen</title>
-      <link>https://junghacker.de/sessions/fortgeschrittene-forensische-analysen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/sessions/fortgeschrittene-forensische-analysen/</guid>
-      <description>&amp;lt;&amp;ndash; Full description &amp;ndash;&amp;gt;</description>
-    </item>
-    
-    <item>
-      <title>Linux Fortgeschritten</title>
-      <link>https://junghacker.de/sessions/linux_fortgeschritten/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/sessions/linux_fortgeschritten/</guid>
-      <description>This Expert Keynote is in english. Please stay away!</description>
-    </item>
-    
-    <item>
       <title>Linux Grundlagen</title>
       <link>https://junghacker.de/sessions/linux_grundlagen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/linux_grundlagen/</guid>
-      <description>Full description</description>
+      <description>Wikipedia: Linux</description>
     </item>
     
     <item>
@@ -52,7 +25,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/l%C3%B6ten_grundlagen/</guid>
-      <description>Ein Basic-Tutorial wie man Lötet. Löten lernen für Anfänger - Einfach erklärt https://wiki.raumzeitlabor.de/wiki/L%C3%B6ten_lernen</description>
+      <description>Ein Basic-Tutorial wie man Lötet. Löten lernen für Anfänger - Einfach erklärt
+Löten lernen
+Wir haben im EBK zwei Lötarbeitsplätze und verschiedene Lötbausätze.</description>
     </item>
     
     <item>
@@ -61,7 +36,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/python_grundlagen/</guid>
-      <description>Full description</description>
+      <description>Python ([ˈpʰaɪθn̩], [ˈpʰaɪθɑn], auf Deutsch auch [ˈpʰyːtɔn]) ist eine universelle, üblicherweise interpretierte höhere Programmiersprache. Sie hat den Anspruch, einen gut lesbaren, knappen Programmierstil zu fördern. So werden beispielsweise Blöcke nicht durch geschweifte Klammern, sondern durch Einrückungen strukturiert. Wegen ihrer klaren und übersichtlichen Syntax gilt Python als einfach zu erlernen.
+Python unterstützt mehrere Programmierparadigmen, z. B. die objektorientierte, die aspektorientierte und die funktionale Programmierung. Ferner bietet es eine dynamische Typisierung. Wie viele dynamische Sprachen wird Python oft als Skriptsprache genutzt.</description>
     </item>
     
     <item>
@@ -79,7 +55,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/mbot/</guid>
-      <description>Full description</description>
+      <description>mBot ist ein Roboter-Bausatz zu Ausbildungszwecken für Schüler ab acht Jahre, der mit Hilfe von Scratch, einer visuellen Programmiersprache, gesteuert werden kann. Der Roboter, der die Arduino-IDE unterstützt, wird von Makeblock, einer Firma in Shenzhen, China hergestellt.</description>
     </item>
     
   </channel>

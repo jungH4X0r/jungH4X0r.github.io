@@ -12,6 +12,28 @@
     
     
     <item>
+      <title>Junghackertag im November 2019</title>
+      <link>https://junghacker.de/blog/blog12/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/blog/blog12/</guid>
+      <description>Diesmal mit super leckerer Kürbissuppe, Besuch aus Bitterfeld mit jeder Menge Arcade-Programmierung, wieder Zeug aus dem 3D-Drucker, Programmierung des Calliope Mini, einem WLAN-Kartentausch durch Zerlegen des kompletten Notebooks, und vieles anderes mehr.
+Außerdem hat die Video-Gruppe hat eine kurze Dokumentation vom heutigen Tag angefertigt, die wir später zeigen können. Alle Fotos nach dem Klick!
+Und hier noch die Links zu Thingiverse: Low Poly Reindeer, Infinity Heart, Hydra Medaillon
+Das kleine orangene Gameboy-artige Handheld ist ein meowbit von kittenbot.</description>
+    </item>
+    
+    <item>
+      <title>Junghackertag Oktober 2019</title>
+      <link>https://junghacker.de/blog/blog11/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/blog/blog11/</guid>
+      <description>Und wieder geht ein erfolgreicher Junghackertag in Halle zuende. Bei diesem Event, das wir jetzt seit genau drei Jahren für Kinder und Jugendliche von 10-18 Jahren veranstalten, gibt es einen einfachen Einstieg ins Programmieren, Löten, 3D-Drucken, Roboter bauen und vieles anderes mehr!
+Heute gabs unter anderem Löten von Weihnachtsbäumen, Zusammenbau eines Roboterbausatzes und 3D-Druck. Es wurde aber auch wieder viel programmiert, ob der Einstieg mit Scratch, eine Webseite für das Junghackerprojekt, ein Minecraftplugin, einen Gleichungsumsteller in C oder eine Gaming-Engine in Java.</description>
+    </item>
+    
+    <item>
       <title>Footer</title>
       <link>https://junghacker.de/footer/</link>
       <pubDate>Sat, 13 Jul 2019 00:13:07 +0200</pubDate>
@@ -27,7 +49,7 @@
       
       <guid>https://junghacker.de/ressourcen/</guid>
       <description>Auf unseren Datenreisen sind uns eine Vielzahl an teilenswerten Sachen in die Hände gefallen
-Links und Downloads zu Projekten und Materialien Programmieren üben  ScratchJr Coding for young children ages 5-7  Git  Git lernen  Links für Mentoren  Computerscience unplugged: “Informatik ohne Computer” - Kennenlernen von Programmierprinzipien und Begriffen mit “analogen Methoden” Pädagogische Hochschule Schwyz: “Informatik ohne Strom” - Kennenlernen von Programmierprinzipien und Begriffen mit “analogen Methoden” CODE!</description>
+Links und Downloads zu Projekten und Materialien Programmieren üben  ScratchJr Coding for young children ages 5-7  Versionierung mit Git  Git lernen  Datenschutz  Panopticlick - Is your browser safe against tracking?   Links für Mentoren  Computerscience unplugged: “Informatik ohne Computer” - Kennenlernen von Programmierprinzipien und Begriffen mit “analogen Methoden” Pädagogische Hochschule Schwyz: “Informatik ohne Strom” - Kennenlernen von Programmierprinzipien und Begriffen mit “analogen Methoden” CODE!</description>
     </item>
     
     <item>
@@ -53,6 +75,15 @@ Vereinsregister: Amtsgericht Stendal, VR 3085
       <description>Wann findet der Junghackertag statt? An jedem vierten Samstag im Monat findet im Eigenbaukominat der Junghackertag statt.
 Was kann ich beim Junghackertag machen? Du willst gerne deine eigenen Computerspiele entwickeln, mit Elektronik basteln und löten, kleine Roboter programmieren oder auch mit freier Software Medien produzieren und gestalten? Dann bist du bei uns genau richtig!
 Zusammen mit anderen Junghackern und mit der Unterstützung von erfahrenen Mentor*innen kannst du all das bei uns lernen.</description>
+    </item>
+    
+    <item>
+      <title>Anmeldung</title>
+      <link>https://junghacker.de/anmeldung/</link>
+      <pubDate>Fri, 12 Jul 2019 21:37:36 +0200</pubDate>
+      
+      <guid>https://junghacker.de/anmeldung/</guid>
+      <description>Wie kann ich am Junghackertag teilnehmen? Um allen die Teilnahme zu ermöglichen ist die Veranstaltung für die TeilnehmerInnen kostenlos. Wir bitten dennoch um eine kleine Spende, um dies auch weiterhin aufrecht zu erhalten. Ein Beitrag von ca. 8€ deckt unsere Kosten für das Mittagessen sowie die Verbrauchsmaterialien (Löten). Falls du einen Laptop besitzt, kannst du den gerne mitbringen. Für alle anderen haben wir Leihgeräte vor Ort. Du kannst bei uns Getränke, kleine Snacks und Süßigkeiten zu fairen Preisen käuflich erwerben.</description>
     </item>
     
     <item>
@@ -174,7 +205,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/alexh/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -183,7 +214,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/danielk/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -192,7 +223,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/danielr/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -201,7 +232,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/horstiane/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -210,7 +241,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/lisa_krug/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -219,7 +250,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/markusbe/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -228,7 +259,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/nilo/</guid>
-      <description>Hallo ich bin owhivoauidgbpviugDPCUuefvbpduipaiwdubvpaiub pwijv üowiehfüoiahwdfüi awdüoihwDFIOAHW EFOAWDÜCFHAWÜEOFHAW ÜC8H AWCVH SDÜV8S DF0GHW RTGH 0CH ÜAEFH8 Ü89H 8H üo9h8d ü8fh üd8h üe8hg üso9dgh dbsfbs fbdfb dfbd fbdfbd fbsgsbd fbns rd+jhs +xdgönsxtjh</description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -237,7 +268,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/steffen_allner/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -246,7 +277,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/yves/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -255,11 +286,7 @@ Um dies zu fördern, werden wir ab diesem Monat mit der Veranstaltung „{JUNGHA
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/cs/</guid>
-      <description>bei mir kannst du $Dinge über - a
--b
--v
-wef-sdfg-wg
-lernen.</description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -268,7 +295,7 @@ lernen.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/frlan/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -277,7 +304,7 @@ lernen.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/honky/</guid>
-      <description> Full bio </description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -286,34 +313,7 @@ lernen.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/speakers/jotilux/</guid>
-      <description> Full bio </description>
-    </item>
-    
-    <item>
-      <title>Forensische Analysen</title>
-      <link>https://junghacker.de/sessions/forensische_analysen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/sessions/forensische_analysen/</guid>
-      <description>&amp;lt;&amp;ndash; Full description &amp;ndash;&amp;gt;</description>
-    </item>
-    
-    <item>
-      <title>Fortgeschrittene-Forensische-Analysen</title>
-      <link>https://junghacker.de/sessions/fortgeschrittene-forensische-analysen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/sessions/fortgeschrittene-forensische-analysen/</guid>
-      <description>&amp;lt;&amp;ndash; Full description &amp;ndash;&amp;gt;</description>
-    </item>
-    
-    <item>
-      <title>Linux Fortgeschritten</title>
-      <link>https://junghacker.de/sessions/linux_fortgeschritten/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junghacker.de/sessions/linux_fortgeschritten/</guid>
-      <description>This Expert Keynote is in english. Please stay away!</description>
+      <description>hier ist es noch sehr leer</description>
     </item>
     
     <item>
@@ -322,7 +322,7 @@ lernen.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/linux_grundlagen/</guid>
-      <description>Full description</description>
+      <description>Wikipedia: Linux</description>
     </item>
     
     <item>
@@ -331,7 +331,9 @@ lernen.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/l%C3%B6ten_grundlagen/</guid>
-      <description>Ein Basic-Tutorial wie man Lötet. Löten lernen für Anfänger - Einfach erklärt https://wiki.raumzeitlabor.de/wiki/L%C3%B6ten_lernen</description>
+      <description>Ein Basic-Tutorial wie man Lötet. Löten lernen für Anfänger - Einfach erklärt
+Löten lernen
+Wir haben im EBK zwei Lötarbeitsplätze und verschiedene Lötbausätze.</description>
     </item>
     
     <item>
@@ -340,7 +342,8 @@ lernen.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/python_grundlagen/</guid>
-      <description>Full description</description>
+      <description>Python ([ˈpʰaɪθn̩], [ˈpʰaɪθɑn], auf Deutsch auch [ˈpʰyːtɔn]) ist eine universelle, üblicherweise interpretierte höhere Programmiersprache. Sie hat den Anspruch, einen gut lesbaren, knappen Programmierstil zu fördern. So werden beispielsweise Blöcke nicht durch geschweifte Klammern, sondern durch Einrückungen strukturiert. Wegen ihrer klaren und übersichtlichen Syntax gilt Python als einfach zu erlernen.
+Python unterstützt mehrere Programmierparadigmen, z. B. die objektorientierte, die aspektorientierte und die funktionale Programmierung. Ferner bietet es eine dynamische Typisierung. Wie viele dynamische Sprachen wird Python oft als Skriptsprache genutzt.</description>
     </item>
     
     <item>
@@ -358,7 +361,7 @@ lernen.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junghacker.de/sessions/mbot/</guid>
-      <description>Full description</description>
+      <description>mBot ist ein Roboter-Bausatz zu Ausbildungszwecken für Schüler ab acht Jahre, der mit Hilfe von Scratch, einer visuellen Programmiersprache, gesteuert werden kann. Der Roboter, der die Arduino-IDE unterstützt, wird von Makeblock, einer Firma in Shenzhen, China hergestellt.</description>
     </item>
     
   </channel>

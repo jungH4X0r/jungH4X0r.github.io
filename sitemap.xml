@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://junghacker.de/blog/blog12/</loc>
+    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/blog/blog11/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://junghacker.de/</loc>
     <lastmod>2019-07-13T00:49:18+02:00</lastmod>
   </url>
@@ -30,6 +40,11 @@
   <url>
     <loc>https://junghacker.de/junghackertagimebk/</loc>
     <lastmod>2019-07-12T21:38:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/anmeldung/</loc>
+    <lastmod>2019-07-12T21:37:36+02:00</lastmod>
   </url>
   
   <url>
@@ -88,6 +103,11 @@
   </url>
   
   <url>
+    <loc>https://junghacker.de/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://junghacker.de/speakers/alexh/</loc>
   </url>
   
@@ -140,44 +160,7 @@
   </url>
   
   <url>
-    <loc>https://junghacker.de/tags/blocky/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/tags/forensik/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/sessions/forensische_analysen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/sessions/fortgeschrittene-forensische-analysen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/tags/hand-auge-koordination/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/tags/linux/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/sessions/linux_fortgeschritten/</loc>
-  </url>
-  
-  <url>
     <loc>https://junghacker.de/sessions/linux_grundlagen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/tags/l%C3%B6ten/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -185,22 +168,7 @@
   </url>
   
   <url>
-    <loc>https://junghacker.de/tags/medien/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/tags/python/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://junghacker.de/sessions/python_grundlagen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://junghacker.de/tags/sensoren/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
