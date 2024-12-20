@@ -84,6 +84,67 @@
 </li>
 </ul>
 <div class=content><p>Stop motion is an animated-film making technique in which objects are physically manipulated in small increments between individually photographed frames so that they will appear to exhibit independent motion when the series of frames is played back as a fast sequence. Dolls with movable joints or clay figures are often used in stop motion for their ease of repositioning. Stop-motion animation using plasticine figures is called clay animation or &ldquo;clay-mation&rdquo;. Not all stop motion, however, requires figures or models: stop-motion films can also be made using humans, household appliances, and other objects, usually for comedic effect. Stop motion using humans is sometimes referred to as pixilation or pixilate animation.</p>
+<h1 id=how-to>How to</h1>
+<p>In dieser Anleitung wird beschrieben wie ein Stopmotion Video auf einem Debian-basierten System mit einer USB-Videoquelle erstellt werden kann.</p>
+<h2 id=installation-und-erste-schritte>Installation und Erste Schritte</h2>
+<ul>
+<li>Das Programm &ldquo;Stopmotion&rdquo; aus den Paketquellen installieren</li>
+</ul>
+<pre tabindex=0><code>sudo apt install stopmotion
+</code></pre><ul>
+<li>Den gewünschten Benutzer der Gruppe &ldquo;Video&rdquo; hinzufügen. Bei dem Befehl bitte den Benutzer anpassen.</li>
+</ul>
+<pre tabindex=0><code>sudo usermod -aG Video BENUTZER
+</code></pre><ul>
+<li>USB-Videoquelle anschliessen</li>
+<li>Das Programm &ldquo;Stopmotion&rdquo; starten</li>
+</ul>
+<h2 id=einstellungen>Einstellungen</h2>
+<ul>
+<li>In der Menüleiste: Einstellungen -> Stopmotion konfigurieren
+<blockquote>
+<p>Die Markierte Zeile gilt als ausgewählt. Mit &ldquo;Anwenden&rdquo; wird die auswahl übernommen und ist aktiv</p>
+</blockquote>
+</li>
+</ul>
+<h3 id=video-gerät>Video-Gerät</h3>
+<ul>
+<li>die Zeile mit &ldquo;/dev/video0&rdquo; auswählen, sofern kein anderer Video-Input angeschlossen ist</li>
+</ul>
+<h3 id=video-import>Video-Import</h3>
+<ul>
+<li>&ldquo;uvccapture&rdquo; auswählen</li>
+<li>auf bearbeiten drücken und in dem Eingabefeld &ldquo;Pre-poll command&rdquo; muss folgendes stehen
+<code>uvccapture -d$VIDEODEVICE -x1920 -y1080 -o\$IMAGEFILE</code>
+* die Auflösung (also x und y) müssen dem entsprechenden Video-Input angepasst werden</li>
+</ul>
+<h3 id=video-export>Video export</h3>
+<ul>
+<li>die Zeile &ldquo;mencoder&rdquo; mit mpeg2 in der Beschreibung
+<ul>
+<li>In den Einstellungen dieses encoders müssen wie folgt aussehen
+<code>mencoder "mf://\$IMAGEPATH/*.jpg" -mf w=640:h=480:fps=$FRAMERATE:type=jpg -ovc lavc -lavcopts vcodec=mpeg2video -oac copy -o "\$VIDEOFILE"</code></li>
+</ul>
+</li>
+</ul>
+<h3 id=aufnahme-von-bildern>Aufnahme von Bildern</h3>
+<ul>
+<li>mit dem Button mit dem Camcorder-Symbol unten links kann das Live-Bild gestartet werden</li>
+<li>mit dem Kamera-Symbol das darüber erscheint kann abhängig vom eingestellten Modus ein Bild aufgenommen werden
+<ul>
+<li>Wenn &ldquo;Mix&rdquo; eingestellt ist werden die aufgenommenen Bilder zur Orientierung übereinander gelegt. Mit dem Schieber darunter kann eingestellt werden, wie viele Bilder übereinandergelegt werden
+<ul>
+<li>Jedes Bild muss einzeln aufgenommen werden. Die Aufnahme kann auch mit der Leertaste getriggert werden</li>
+</ul>
+</li>
+<li>Es kann auch eine Zeitsteuerung eingestellt werden
+<ul>
+<li>Den Modus auf &ldquo;Auto&rdquo; umstellen und einen Intervall aussuchen (Sekunde, Minute, Stunde). Die Aufnahme wird sofort gestartet.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 </div>
 </div>
 </div>
